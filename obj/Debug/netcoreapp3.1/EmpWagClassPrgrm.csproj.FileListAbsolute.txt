@@ -1,0 +1,14 @@
+C:\Users\md048\source\repos\EmpWagClassPrgrm\bin\Debug\netcoreapp3.1\EmpWagClassPrgrm.exe
+C:\Users\md048\source\repos\EmpWagClassPrgrm\bin\Debug\netcoreapp3.1\EmpWagClassPrgrm.deps.json
+C:\Users\md048\source\repos\EmpWagClassPrgrm\bin\Debug\netcoreapp3.1\EmpWagClassPrgrm.runtimeconfig.json
+C:\Users\md048\source\repos\EmpWagClassPrgrm\bin\Debug\netcoreapp3.1\EmpWagClassPrgrm.runtimeconfig.dev.json
+C:\Users\md048\source\repos\EmpWagClassPrgrm\bin\Debug\netcoreapp3.1\EmpWagClassPrgrm.dll
+C:\Users\md048\source\repos\EmpWagClassPrgrm\bin\Debug\netcoreapp3.1\EmpWagClassPrgrm.pdb
+C:\Users\md048\source\repos\EmpWagClassPrgrm\obj\Debug\netcoreapp3.1\EmpWagClassPrgrm.csproj.AssemblyReference.cache
+C:\Users\md048\source\repos\EmpWagClassPrgrm\obj\Debug\netcoreapp3.1\EmpWagClassPrgrm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\md048\source\repos\EmpWagClassPrgrm\obj\Debug\netcoreapp3.1\EmpWagClassPrgrm.AssemblyInfoInputs.cache
+C:\Users\md048\source\repos\EmpWagClassPrgrm\obj\Debug\netcoreapp3.1\EmpWagClassPrgrm.AssemblyInfo.cs
+C:\Users\md048\source\repos\EmpWagClassPrgrm\obj\Debug\netcoreapp3.1\EmpWagClassPrgrm.csproj.CoreCompileInputs.cache
+C:\Users\md048\source\repos\EmpWagClassPrgrm\obj\Debug\netcoreapp3.1\EmpWagClassPrgrm.dll
+C:\Users\md048\source\repos\EmpWagClassPrgrm\obj\Debug\netcoreapp3.1\EmpWagClassPrgrm.pdb
+C:\Users\md048\source\repos\EmpWagClassPrgrm\obj\Debug\netcoreapp3.1\EmpWagClassPrgrm.genruntimeconfig.cache
